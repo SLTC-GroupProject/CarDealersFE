@@ -10,6 +10,7 @@
 
 # production
 /build
+/[Nn]ode_modules/
 
 # misc
 .DS_Store
